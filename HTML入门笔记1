@@ -1,0 +1,30 @@
+i HTML是由李爵士发明的。
+ii 起手式应该应该写的标签有head、body。其中hede标签包括 网页的类型（.html）、编码类型（UTF-8）、语言（zh-ZN）、网页的名字、还有被浏览器识别的一些其他内容。
+iii h1~h6:一到六级标题，重要程度递减，常用前3个
+   section：章节
+   article：文章
+   main：主要的躯干
+   aside：分支栏 导航栏 在旁边的 两边的
+   header:网页顶部的位置 广告栏
+   footer：网页的底部的位置，版权所有  友情链接
+   p：段落
+   div：上面不能用的就用div
+iv:class: 比较常用的
+     contentedditale：让用户可以在网页端自己编辑
+     hidden:隐藏 用户在网页界面看不见
+     id：使用时注意唯一性 网页不保证其唯一性
+     style：加一些样式时使用
+     tabindex:用户可以用tab键选择按钮 按数字顺序，0：最后 -1：不选择
+     title：鼠标放上去提示完整的内容
+v：ol+li:有序列表 会显示1.2.3.
+   ul+li:有无序列表 
+   dl+dt+dd：dl表示一个标题 dd对标题dl里面的一个内容dt进行解释。
+   pre:里面的空格，换行会如实的显示。
+   hr：下划线
+   br：回车符
+   a：超链接
+   em：语气上的加重
+   strong：语义上的加重
+   code：代码使用
+   quote：引用的表示
+   blockquote：引用的表示，人名书名 后面带换行。
